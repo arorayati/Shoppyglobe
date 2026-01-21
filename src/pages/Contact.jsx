@@ -24,6 +24,6 @@ const Contact = () => {
       <NewsletterBox/>
     </div>
   )
-}
+}  
 
 export default Contact
