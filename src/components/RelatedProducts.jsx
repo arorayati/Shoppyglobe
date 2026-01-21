@@ -38,4 +38,3 @@ import Title from './Title'
  }
  
  export default RelatedProducts
-c
