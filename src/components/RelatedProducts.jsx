@@ -13,7 +13,7 @@ import Title from './Title'
  useEffect(()=>{
   
    if(products.length > 0) {
-   let productsCopy = products.slice();
+   let productsCopy = products.slice(); 
     productsCopy = productsCopy.filter((item)=>category===item.category);
     productsCopy = productsCopy.filter((item)=>subCategory===item.subCategory);
 
