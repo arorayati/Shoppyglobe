@@ -42,7 +42,7 @@ const Navbar = () => {
 <p className='cursor-pointer hover:text-black'>My Profile</p>
 <p className='cursor-pointer hover:text-black'>Orders </p>
 <p className='cursor-pointer hover:text-black'>Logout</p> 
-</div>
+</div> 
  </div> 
    </div>  
    <Link to='/cart'className='relative'> 
