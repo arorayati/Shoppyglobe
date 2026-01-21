@@ -15,7 +15,7 @@ import { useLocation } from 'react-router-dom';
              setVisible(true); 
         } 
              else {
-                setVisible(false)
+                setVisible(false)  
              }
         
  },[location])
